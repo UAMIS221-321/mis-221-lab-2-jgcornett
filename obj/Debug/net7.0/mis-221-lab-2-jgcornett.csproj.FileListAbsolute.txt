@@ -1,0 +1,14 @@
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.AssemblyInfoInputs.cache
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.AssemblyInfo.cs
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.csproj.CoreCompileInputs.cache
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\bin\Debug\net7.0\mis-221-lab-2-jgcornett.exe
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\bin\Debug\net7.0\mis-221-lab-2-jgcornett.deps.json
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\bin\Debug\net7.0\mis-221-lab-2-jgcornett.runtimeconfig.json
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\bin\Debug\net7.0\mis-221-lab-2-jgcornett.dll
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\bin\Debug\net7.0\mis-221-lab-2-jgcornett.pdb
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.dll
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\refint\mis-221-lab-2-jgcornett.dll
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.pdb
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\mis-221-lab-2-jgcornett.genruntimeconfig.cache
+C:\Users\12565\Desktop\MIS 221\LabsFall2024\mis-221-lab-2-jgcornett\obj\Debug\net7.0\ref\mis-221-lab-2-jgcornett.dll
